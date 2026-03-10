@@ -80,5 +80,4 @@ torchvision
 
 
 ## Author: Xiaohan Jiang
-Course: CS 788
 Date: April 29th 2025
