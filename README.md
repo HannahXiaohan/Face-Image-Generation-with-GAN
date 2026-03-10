@@ -4,18 +4,23 @@
 
 ## Demo 
 Input Image: 
+
 <img width="296" height="197" alt="image" src="https://github.com/user-attachments/assets/c0476530-932e-4494-a8bb-00056d99d3f0" />
 
 Apply Quantization: 
+
 <img width="260" height="262" alt="image" src="https://github.com/user-attachments/assets/0e5ed23e-977b-47ba-accd-63a90feb99f7" />
 
 Original:
+
 <img width="259" height="263" alt="image" src="https://github.com/user-attachments/assets/f01e2e7b-7c12-4395-9c84-583e9521ee55" />
 
 Apply Pruning:
+
 <img width="254" height="252" alt="image" src="https://github.com/user-attachments/assets/27727481-96f6-48a8-9999-c1d99865be49" />
 
 Running time:
+
 <img width="608" height="80" alt="image" src="https://github.com/user-attachments/assets/0c8f5ff9-6d3f-4d08-8f9a-6f96e1e81ad2" />
 
 
