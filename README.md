@@ -1,6 +1,6 @@
 ## Face Aging GAN – Lifespan Age Transformation Synthesis
 
-# This project is focused on creating an application that transforms a given face image to appear younger or older using a pre-trained GAN model. The implementation is based on the Lifespan Age Transformation Synthesis repository.
+This project is focused on creating an application that transforms a given face image to appear younger or older using a pre-trained GAN model. The implementation is based on the Lifespan Age Transformation Synthesis repository.
 
 ## Demo 
 Input Image: 
