@@ -79,5 +79,4 @@ torchvision
 
 
 
-Author: Xiaohan Jiang
-Date: April 29th 2025
+# Author: Xiaohan Jiang  Date: April 29th 2025
